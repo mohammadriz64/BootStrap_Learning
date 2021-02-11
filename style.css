@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.heading{
+    text-align: center;
+    color: chocolate;
+    margin: 10px;
+}
+.container{
+    margin: 20px;
+    border-style: groove;
+    border-color: rgb(6, 138, 6);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align: center;
+}
