@@ -18,3 +18,9 @@
     padding: 10px;
     text-align: center;
 }
+.card{
+    border: 1px solid goldenrod;
+}
+.card-img-top{
+    overflow: hidden;
+}
