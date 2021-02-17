@@ -21,6 +21,14 @@
 .card{
     border: 1px solid goldenrod;
 }
-.card-img-top{
+.inner{
+
     overflow: hidden;
+}
+.card-img-top{
+    transition: all 1.5s ease;
+}
+
+.card-img-top:hover{
+
 }
