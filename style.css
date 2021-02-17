@@ -30,5 +30,5 @@
 }
 
 .card-img-top:hover{
-
+transform: scale(1.1);
 }
