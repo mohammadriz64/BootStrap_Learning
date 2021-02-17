@@ -32,3 +32,9 @@
 .card-img-top:hover{
 transform: scale(1.1);
 }
+a{
+    margin-left: 70px;
+}
+p{
+    text-align: justify;
+}
